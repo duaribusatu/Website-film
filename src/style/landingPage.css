@@ -1,0 +1,75 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/Images/Background/adrien-olichon-5r-ffTZXmes-unsplash.jpg");
+    background-size: cover;
+    background-position-y: -200px;
+}
+
+/* Intro */
+.intro {
+    height: 350px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3.5px;
+}
+/* End of Intro */
+
+/* ListBest */
+.ListBest {
+    height: auto;
+    background: url("../assets/Images/Background/augusto-oazi-KWOcA8_Vu10-unsplash.jpg");
+    background-size: cover;
+}
+/* End of ListBest */
+
+/* ListFavorite */
+.ListFavorite {
+    height: auto;
+    background: url("../assets/Images/Background/reagan-freeman-o6xk9ob1NrA-unsplash.jpg");
+    background-size: cover;
+}
+/* End of ListFavorite*/
+
+/* Favorite */
+.Favorite {
+    height: auto;
+    background: url("../assets/Images/Background/reagan-freeman-o6xk9ob1NrA-unsplash.jpg");
+    background-size: cover;
+}
+
+.movieImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.favImage {
+    height: 480px;
+}
+
+.favHeader {
+    text-align: center;
+    font-size: 3.5rem;
+    font-weight: 800;
+    margin: 30px;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3.5px;
+}
+/* End of Favorite */
+
+/* Film Section */
+.Film {
+    height: auto;
+    background: url("../assets/Images/Background/augusto-oazi-KWOcA8_Vu10-unsplash.jpg");
+    background-size: cover;
+}
+/* End of Film Section */

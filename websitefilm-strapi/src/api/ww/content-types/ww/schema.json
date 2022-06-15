@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "wws",
+  "info": {
+    "singularName": "ww",
+    "pluralName": "wws",
+    "displayName": "ww",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "gambar": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
